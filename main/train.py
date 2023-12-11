@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 13 10:37:39 2019
-
-@author: Keshik
-"""
-
 from tqdm import tqdm
 import torch
 import gc
