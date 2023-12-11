@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 12 23:23:51 2019
-
-@author: Keshik
-"""
 import torchvision.datasets.voc as voc
 
 class PascalVOC_Dataset(voc.VOCDetection):
