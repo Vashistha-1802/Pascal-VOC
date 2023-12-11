@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 12 20:52:33 2019
-
-@author: Keshik
-"""
 import os
 import math
 from tqdm import tqdm
