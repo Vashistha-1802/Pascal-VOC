@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 13 10:50:25 2019
-
-@author: Keshik
-"""
-
 import torch
 import numpy as np
 from torchvision import transforms
