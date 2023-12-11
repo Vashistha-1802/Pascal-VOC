@@ -15,3 +15,12 @@ Average precision serves as the performance metric, representing the average of 
 
 # Model
 ResNet50 is chosen as the deep learning architecture for its memory efficiency. Transfer learning is applied, leveraging similarities between object classes and ImageNet classes.
+
+## How to reproduce the code?
+### Pytorch source code
+1. Install dependencies: pip install -r requirements.txt
+2. Directory structure
+    * /info: contain project and devkit documentation
+    * /main: contains source code
+    * /data: data directory to download and extract pascal VOC dataset (You should create this directory manually)
+    * Run the main function in main.py with required arguments.
